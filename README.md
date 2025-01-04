@@ -1,3 +1,3 @@
-# Machine Learning Practice Project
+# Machine Learning Practice - Project
 
 To be updated.
