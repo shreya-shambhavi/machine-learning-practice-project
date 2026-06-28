@@ -15,7 +15,7 @@ Given a dataset of 13,636 food recipe reviews with features like user reputation
 | Split | Rows | Features |
 |-------|------|----------|
 | Train | 13,636 | 14 features + 1 label (`Rating`) |
-| Test | — | 14 features |
+| Test | 4,546 | 14 features |
 
 **Key features used:**
 - `UserReputation`, `ReplyCount`, `ThumbsUpCount`, `ThumbsDownCount`, `BestScore`
